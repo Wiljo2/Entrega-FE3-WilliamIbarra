@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Entrega-FE3-WilliamIbarra/static/css/main.fe57c324.css",
+    "main.js": "/Entrega-FE3-WilliamIbarra/static/js/main.aacc0563.js",
+    "index.html": "/Entrega-FE3-WilliamIbarra/index.html",
+    "main.fe57c324.css.map": "/Entrega-FE3-WilliamIbarra/static/css/main.fe57c324.css.map",
+    "main.aacc0563.js.map": "/Entrega-FE3-WilliamIbarra/static/js/main.aacc0563.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe57c324.css",
+    "static/js/main.aacc0563.js"
+  ]
+}
